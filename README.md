@@ -197,3 +197,5 @@ void stopCar() {
   digitalWrite(motorIn3, LOW);
   digitalWrite(motorIn4, LOW);
 }
+
+![VIPER Prototype](viper_robot.png)

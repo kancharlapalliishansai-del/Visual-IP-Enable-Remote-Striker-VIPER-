@@ -2,7 +2,7 @@
 C++ firmware for a Wireless IP-Enabled robotic missile launcher. Features real-time video streaming via ESP32-CAM and a custom web-based control dashboard for tactical remote intervention
 
 ##images 
-![VIPER Prototype](VIPER_SIDEVIEW.jpg)
+![VIPER Prototype](VIPER_SIDEVIEW.png)
 ![VIPER Prototype](VIPER_FRONTVIEW.jpg)
 ![VIPER Prototype](VIPER_UPVIEW.jpg)
 

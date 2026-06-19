@@ -1,6 +1,6 @@
 # Visual-IP-Enable-Remote-Striker-VIPER-
 C++ firmware for a Wireless IP-Enabled robotic missile launcher. Features real-time video streaming via ESP32-CAM and a custom web-based control dashboard for tactical remote intervention
-
+![VIPER Prototype](ViperSV.png)
 ##code
 /*
   VIPER - Visual IP-Enabled Remote Striker (Ishan Sai's)
@@ -197,6 +197,6 @@ void stopCar() {
   digitalWrite(motorIn3, LOW);
   digitalWrite(motorIn4, LOW);
 }
-
+##Block Diagram 
 ![VIPER Prototype](viper_robot.png)
-![VIPER Prototype](ViperSV.png)
+![VIPER Prototype](ViperUP.png)

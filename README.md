@@ -8,6 +8,9 @@
 * **Servo-Actuated Striker:** A top-tier micro-servo mechanic enabling precise directional aiming or mechanical triggering of the auxiliary payload.
 * **Non-Blocking Control Architecture:** Hardcoded entirely via asynchronous timing loops (`millis()`), allowing simultaneous video streaming, LED matrix scrolling, sensor feedback, and motor actuation without thread-locking lag.
 * 
-##Block Diagram 
+## Block Diagram 
 ![VIPER Prototype](viper_robot.png)
+## Images 
+![VIPER Prototype](ViperFV.png)
 ![VIPER Prototype](ViperUP.png)
+![VIPER Prototype](ViperBV.png)
